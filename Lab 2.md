@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-<title>5 Things to Know About Rattlesnakes and Their Babies</title>
-</head>
-
 <body>
-
 <img src="UniversityLogo.png" alt="Logo of The University of Arizona.">
 
 <h1>5 Things to Know About Rattlesnakes and Their Babies</h1>
